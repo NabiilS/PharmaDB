@@ -6,7 +6,7 @@
 
 ## Architecture du site
 
-![Architecture](/ressources/images/PlanArchitectural.png?raw=true "Architecture")
+![Architecture](/ressources/images/ArchitecturePharmaDB.png?raw=true "Architecture")
 
 ## Modèle logique de données
 

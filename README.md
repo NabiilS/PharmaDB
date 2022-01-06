@@ -15,8 +15,15 @@ Pharmacien = (idPharmacien INT, nomPharmacien VARCHAR(50), prenomPharmacien VARC
  emailPharmacien VARCHAR(50), telPharmacien VARCHAR(50), motDePasse VARCHAR(50), 
 etablissement VARCHAR(50), adresse VARCHAR(50), #idPatient*);
 
-![alt text]https://i.gyazo.com/7e4d1334abe3de23c6280bc590b65e94.png)
+![MLD] (https://i.gyazo.com/7e4d1334abe3de23c6280bc590b65e94.png)
 
-![Screenshot](screenshot.png)
+![MCD] (https://i.gyazo.com/f654d1e3252da0ec8aac1c5085f27661.png)
 
-![stack Overflow](http://lmsotfy.com/so.png)
+##Langages et framework utilisés:
+FrontEnd: JavaScript, HTML, CSS, Bootstrap 5.1
+BackEnd: PHP, MySql, PHPMailer
+
+##Gestion QR code:
+phpQRcode
+
+Lien github: https://github.com/NabiilS/PharmaDB

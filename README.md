@@ -17,7 +17,10 @@ etablissement VARCHAR(50), adresse VARCHAR(50), #idPatient*);
 
 ![MLD] (https://i.gyazo.com/7e4d1334abe3de23c6280bc590b65e94.png)
 
+
 ![MCD] (https://imgur.com/CJ3fbYq)
+![Alt text](/ressources/images/PharmaDBMCD.png?raw=true "Optional Title")
+
 
 ##Langages et framework utilisés:
 FrontEnd: JavaScript, HTML, CSS, Bootstrap 5.1

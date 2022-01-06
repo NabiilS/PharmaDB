@@ -14,6 +14,7 @@ CREATE TABLE Pharmacien(
    motDePasse VARCHAR(50),
    etablissement VARCHAR(50),
    adresse VARCHAR(50),
+   ville VARCHAR(50),
    PRIMARY KEY(idPharmacien)
 );
 
@@ -26,6 +27,7 @@ CREATE TABLE Medecin(
    motDePasse VARCHAR(50),
    specialite VARCHAR(50),
    adresse VARCHAR(50),
+   ville VARCHAR(50),
    PRIMARY KEY(idMedecin)
 );
 

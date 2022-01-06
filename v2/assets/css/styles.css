@@ -1,0 +1,21 @@
+head {
+}
+
+#users {
+  font-size: 10vh;
+  margin: 3vh 0;
+  text-align: center;
+}
+
+#nav-icon {
+  width: 50px;
+}
+
+body {
+  font-family: 'Nourd-Light', sans-serif;
+}
+
+.myPrimary-color {
+  background-color: #56c6c6;
+}
+

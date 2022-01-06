@@ -16,3 +16,7 @@ Pharmacien = (idPharmacien INT, nomPharmacien VARCHAR(50), prenomPharmacien VARC
 etablissement VARCHAR(50), adresse VARCHAR(50), #idPatient*);
 
 ![alt text]https://i.gyazo.com/7e4d1334abe3de23c6280bc590b65e94.png)
+
+![Screenshot](screenshot.png)
+
+![stack Overflow](http://lmsotfy.com/so.png)

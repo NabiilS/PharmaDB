@@ -2,20 +2,20 @@
 
 ## Planche d'inspiration (Moodboard)
 
-![Alt text](/ressources/images/Moodboard.png?raw=true "Moodboard")
+![Moodboard](/ressources/images/PharmaMoodboard.png?raw=true "Moodboard")
 
 ## Architecture du site
 
-![Alt text](/ressources/images/Architecture.png?raw=true "Architecture")
+![Architecture](/ressources/images/Architecture.png?raw=true "Architecture")
 
 ## Modèle logique de données
 
-![Alt text](/ressources/images/PharmaDBMLD.png?raw=true "MLD")
+![MLD](/ressources/images/PharmaDBMLD.png?raw=true "MLD")
 PharmaDBMLD
 
 ## Modèle Conceptuel de données
 
-![Alt text](/ressources/images/PharmaDBMCD.png?raw=true "MCD")
+![MCD](/ressources/images/PharmaDBMCD.png?raw=true "MCD")
 
 ## Langages et framework utilisés:
 

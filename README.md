@@ -1,6 +1,6 @@
 # PharmaDB
 
-## Modèle d'inspiration (Moodboard)
+## Planche d'inspiration (Moodboard)
 
 ![Alt text](/ressources/images/Moodboard.png?raw=true "Moodboard")
 

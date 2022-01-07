@@ -22,14 +22,12 @@ FrontEnd: JavaScript, HTML, CSS, Bootstrap 5.1
 
 BackEnd: PHP, MySql, PHPMailer
 
-
-
 ## Technologies et logiciels:
 
 Cheeky Palettes, Boostrap Studio, Github, Git, Canva
 
 ## Gestion QR code:
 
-phpQRcode
+qrPHP, fpdfPHP
 
 Lien github: https://github.com/NabiilS/PharmaDB

@@ -5,8 +5,8 @@ use dbPharma;
 
 
 /* Création des tables */
-CREATE TABLE Pharmacien(
-   idPharmacien INT,
+CREATE TABLE pharmacien(
+   idPharmacien INT NOT NULL AUTO_INCREMENT,
    nomPharmacien VARCHAR(50),
    prenomPharmacien VARCHAR(50),
    emailPharmacien VARCHAR(50),
@@ -18,8 +18,8 @@ CREATE TABLE Pharmacien(
    PRIMARY KEY(idPharmacien)
 );
 
-CREATE TABLE Medecin(
-   idMedecin INT,
+CREATE TABLE medecin(
+   idMedecin INT NOT NULL AUTO_INCREMENT,
    nomMedecin VARCHAR(50),
    prenomMedecin VARCHAR(50),
    emailMedecin VARCHAR(50),
@@ -31,8 +31,8 @@ CREATE TABLE Medecin(
    PRIMARY KEY(idMedecin)
 );
 
-CREATE TABLE Patient(
-   idPatient INT,
+CREATE TABLE patient(
+   idPatient INT NOT NULL AUTO_INCREMENT,
    nomPatient VARCHAR(50),
    prenomPatient VARCHAR(50),
    emailPatient VARCHAR(50),
@@ -47,7 +47,7 @@ CREATE TABLE Patient(
    FOREIGN KEY(idMedecin) REFERENCES Medecin(idMedecin)
 );
 
-CREATE TABLE Consulter(
+CREATE TABLE consulter(
    idPatient INT,
    idPharmacien INT,
    PRIMARY KEY(idPatient, idPharmacien),

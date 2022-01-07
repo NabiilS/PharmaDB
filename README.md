@@ -30,4 +30,9 @@ Cheeky Palettes, Boostrap Studio, Github, Git, Canva
 
 qrPHP, fpdfPHP
 
+
+
+
+
+
 Lien github: https://github.com/NabiilS/PharmaDB
